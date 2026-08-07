@@ -4,4 +4,4 @@ This is a fork of [this theme](https://github.com/dr-marco/refind-t480-theme), b
 OS Icons are from [here](https://github.com/NilsPvR/rEFInd-nils).
 The background is an exploded diagram based on my current PC build.
 
-![Screenshot](http://i.imgur.com/q8C9uNV.jpeg)
+![Screenshot](https://github.com/aperinik/refind-theme/blob/master/refind.png)
